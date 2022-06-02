@@ -1,0 +1,17 @@
+.taskHeader {
+  height:140px;
+  width:598px;
+  border: 1px solid rgb(255, 255, 255);
+  background-image: linear-gradient(to right, rgb(121,241,164) , rgb(16,95,172));
+  /* color: white; */
+  /* font-size: 20px; */
+
+  /* margin-left: 20px;*/
+
+}
+.heading{
+color: rgb(255, 255, 255);
+  font-size: 30px;
+  margin-left: 190px;
+}
+

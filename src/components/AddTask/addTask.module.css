@@ -1,0 +1,16 @@
+.input{
+  width: 530px;
+  height: 70px;
+  /* padding: 5px; */
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  /* margin-left: 700px; */
+  font-size: 52px;
+
+
+}
+.add{
+  font-size: 50px;
+  color: rgb(13, 13, 180);
+  /* margin-top: px; */
+}
